@@ -14,5 +14,4 @@ You can checkout this repo from any computer with Git using:
 git clone https://github.com/artlbv/DESY-root-tutorial.git
 ```
 
-The address for any repo can always be found in the right sidebar under:
-"HTTPS clone URL"
+>The address for any repo can always be found in the right sidebar under: "HTTPS clone URL"
